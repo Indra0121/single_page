@@ -60,6 +60,12 @@ a{
     font-weight:bold;
 
 }
+ul{
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
 a:hover{
     color:rgb(199, 135, 18) !important;
 
